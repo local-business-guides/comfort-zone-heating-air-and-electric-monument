@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/comfort-zone-heating-air-and-electric-monument/sitemap.xml
+Sitemap: https://local-business-guides.github.io/comfort-zone-heating-air-and-electric-monument/news-sitemap.xml

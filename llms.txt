@@ -23,6 +23,9 @@
 - [Best HVAC Contractor Co Monument for Homeowners](https://local-business-guides.github.io/comfort-zone-heating-air-and-electric-monument/best-hvac-contractor-co-monument/): Best HVAC Contractor Co Monument help for AC concerns in Monument. Learn what to check before service, then call Comfort Zone Heating, Air & Electric.
 - [Top Rated HVAC Contractor Co Monument Guide](https://local-business-guides.github.io/comfort-zone-heating-air-and-electric-monument/top-rated-hvac-contractor-co-monument/): Top Rated HVAC Contractor Co Monument search help for homeowners in Monument. Know what to ask and prepare before you call Comfort Zone Heating, Air & Electri
 
+## Newsroom
+- [Comfort Zone Heating, Air & Electric Publishes Monument HVAC Guide](https://local-business-guides.github.io/comfort-zone-heating-air-and-electric-monument/news/2026-11-11-comfort-zone-heating-air-electric-publishes/): Comfort Zone Heating, Air & Electric published a guide to HVAC contractors in Monument, with a video, podcast episode and SoundCloud audio version. (2026-11-11)
+
 ## Pages
 - [HVAC Contractor in Monument, Colorado](https://local-business-guides.github.io/comfort-zone-heating-air-and-electric-monument/): Get responsive heating and cooling help from a local HVAC team serving Monument, Colorado. Call +1719-399-9400.
 - [About Comfort Zone Heating, Air & Electric](https://local-business-guides.github.io/comfort-zone-heating-air-and-electric-monument/about/): About Comfort Zone Heating, Air & Electric, Monument.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/comfort-zone-heating-air-and-electric-monument/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/comfort-zone-heating-air-and-electric-monument/news/rss.xml)
 - [Main resource site](https://comfort-zone-monument-hvac.localbusinesses1.chatgpt.site)
